@@ -1,7 +1,7 @@
 /*manyDiese App ruft Benutzerinformationen ab und druckt sie dann aus
 Wir haben es im Rahmen einer Lernsitzung gemacht
 */
-
+// Neu
 
 fun main(){
     //Nach Benutzernamen fragen
